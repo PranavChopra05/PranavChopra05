@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranavChopra05
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning DSA in C++
+- 🌱 I’m currently learning web-development.
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me : Well, you can connect with me on linkedin - https://www.linkedin.com/in/pranav-chopra-2abb29288/
 - 😄 Pronouns: he/him
